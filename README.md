@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-My name is **Pingfan Hu**, a PhD student in [EMSE](https://emse.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), supervised by professor [John Helveston](https://www.jhelvy.com). My contributions on GitHub includes my research projects, package development, and some personal side projects. I am experienced in R (base R + tidyverse) and Python development mainly in data analysis and data viz. I also write moderate CSS and HTML codes.
+My name is **Pingfan Hu**, a PhD student in [EMSE](https://emse.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), supervised by professor [John Helveston](https://www.jhelvy.com). My contributions on GitHub includes my research projects, package development, and some personal side projects. I am experienced in R (base R + tidyverse) and Python development mainly in data analysis and data viz. I write moderate CSS and HTML codes as well.
 
 ### Links
 
