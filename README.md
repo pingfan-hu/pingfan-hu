@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-My name is **Pingfan Hu**. I am  a PhD student in [EMSE](https://emse.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), supervised by professor [John Helveston](https://www.jhelvy.com). My contributions on GitHub includes my research projects, package development, and some personal side projects. I speak Chinese as native language and am proficient at English due to over 10 years of studying and working overseas. I am experienced in R (base R + tidyverse) and Python development mainlly in data analysis and data viz. I write moderate CSS and HTML codes as well.
+My name is **Pingfan Hu**, a PhD student in [EMSE](https://emse.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), supervised by professor [John Helveston](https://www.jhelvy.com). My contributions on GitHub includes my research projects, package development, and some personal side projects. I am experienced in R (base R + tidyverse) and Python development mainly in data analysis and data viz. I also write moderate CSS and HTML codes.
 
 ### Links
 
@@ -14,7 +14,7 @@ My name is **Pingfan Hu**. I am  a PhD student in [EMSE](https://emse.engineerin
 
 ### Research Projects
 
-- [Smart charging adoption for BEV owners (ongoing)](https://sc.pingfanhu.com): A survey-based project that studies BEV owners' willingness to opt in smart charging programs.
+- [Smart charging adoption for BEV owners](https://sc.pingfanhu.com): A survey-based data analysis that studies BEV (Battery Electric Vehicle) owners' willingness to opt in smart charging programs.
 
 ### R Packages
 
