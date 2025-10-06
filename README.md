@@ -12,12 +12,12 @@ My name is **Pingfan Hu**, a PhD candidate in [EMSE](https://emse.engineering.gw
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pingfan-hu?cardType=github&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
-### Research Projects
+### Transportation Researches
 
-- [Smart charging adoption for BEV owners](https://pingfanhu.com/projects/01_sc_adoption/): A survey-based data analysis that studies BEV (Battery Electric Vehicle) owners' willingness to opt in smart charging programs.
-- [Supplier-managed charging economy analysis](https://pingfanhu.com/projects/02_smc_economy/): (on-going) A cost-effectiveness analysis of supplier-managed charging programs among all 18 GEA areas in the USA.
+1. [Smart charging adoption](https://pingfanhu.com/projects/2024-sc-adoption/): A survey-based data analysis that studies BEV (Battery Electric Vehicle) owners' willingness to opt in smart charging programs.
+2. [Supplier-managed charging economy analysis](https://pingfanhu.com/projects/2025-smc-economy/): A cost-effectiveness analysis of supplier-managed charging programs among all 18 GEA areas in the USA.
 
 ### R Packages
 
-- [surveydown](https://pingfanhu.com/projects/03_surveydown/): A flexible, open-source platform for making surveys with R, Quarto, Shiny, and Supabase.
-- [sdapps](https://pingfanhu.com/projects/04_sdstudio/): A companion package for designing and managing surveydown surveys.
+1. [surveydown](https://pingfanhu.com/projects/2024-surveydown/): A flexible, open-source platform for making surveys with R, Quarto, Shiny, and Supabase.
+2. [sdstudio](https://pingfanhu.com/projects/2025-sdstudio/): A companion package for designing and managing surveydown surveys.
