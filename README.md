@@ -1,10 +1,10 @@
 ### Greetings! 👋
 
-My name is **Pingfan Hu**, a PhD candidate in [EMSE](https://emse.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), advised by professor [John Helveston](https://www.jhelvy.com). My contributions on GitHub includes my research projects, package development, and some personal side projects. I am experienced in R (base R + tidyverse) and Python development mainly in data analysis and data viz. I write moderate CSS and HTML codes as well.
+My name is **Pingfan Hu**, a PhD candidate in [EMSE](https://emse.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), advised by professor [John Helveston](https://www.jhelvy.com). I do R development and data analysis in sustainable transportation using choice models. I develop websites and webapps using Quarto and Shiny. I write moderate Python, HTML, and CSS code as well.
 
 ### Links
 
-- [Personal Website](https://pingfanhu.com)
+- [Website](https://pingfanhu.com)
 - [Linkedin](https://www.linkedin.com/in/pingfan)
 - [orcID](https://orcid.org/0009-0001-4877-4844)
 
