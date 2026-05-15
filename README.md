@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-My name is **Pingfan Hu**, a PhD candidate in [Engineering Management & Systems Engineering](https://emse.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), advised by Professor [John Helveston](https://www.jhelvy.com). My work focuses on R development and data science in sustainable transportation. I build websites and interactive applications with Quarto and Shiny, and also write moderate Python, HTML, and CSS.
+My name is **Pingfan Hu**, a PhD candidate in [Systems Engineering](https://emse.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), advised by Professor [John Helveston](https://www.jhelvy.com). My work focuses on data science, quantitative modeling, and software development for human behavior and sustainable transportation. I develop open-source software for survey design and discrete choice modeling, and build full-stack research applications with R, Python, Quarto, Shiny, and PostgreSQL. I also apply agentic AI engineering to design and deploy LLM-powered workflows that automate complex research and development tasks.
 
 ### Links
 
@@ -12,12 +12,10 @@ My name is **Pingfan Hu**, a PhD candidate in [Engineering Management & Systems 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pingfan-hu?cardType=github&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
-### R Packages
+### Research Focus:
 
-1. [surveydown](https://pingfanhu.com/projects/2024-surveydown/): An open-source, feature-packed R package for programmable survey design & deployment, combining a Quarto UI, a Shiny web framework, and a PostgreSQL backend.
-2. [sdstudio](https://pingfanhu.com/projects/2025-sdstudio/): A companion R package as GUI and SQL support for surveydown.
+1. **Open-Source Software**: I develop open-source R tools for survey research, including [surveydown](https://pingfanhu.com/projects/2024-surveydown/), a programmable, markdown-based survey platform built on Quarto, Shiny, and PostgreSQL, and its companion GUI [sdstudio](https://pingfanhu.com/projects/2025-sdstudio/).
 
-### Transportation Researches
+2. **Transportation Research**: I study human behavior in sustainable transportation using discrete choice models, focusing on smart charging [adoption](https://pingfanhu.com/projects/2024-sc-adoption/) and [economy](https://pingfanhu.com/projects/2025-smc-economy/) to inform policymakers and utilities.
 
-1. [Smart charging adoption](https://pingfanhu.com/projects/2024-sc-adoption/): A survey-based data analysis that studies BEV (Battery Electric Vehicle) owners' willingness to opt in smart charging programs.
-2. [Supplier-managed charging economy analysis](https://pingfanhu.com/projects/2025-smc-economy/): A cost-efficiency analysis of supplier-managed charging programs among all 18 GEA areas in the USA.
+3. **Agentic AI Engineering**: I build reproducible workflows around Claude Code with plugins, skills, MCPs, and hooks. I document the [tutorials](https://pingfanhu.com/blog/2026-03-26-agentic-engineering-1/) and my own [workflows](https://pingfanhu.com/blog/2026-05-15-agentic-workflows) in my blog, and run a [workshop](https://pingfan-hu.github.io/2026-agentic-engineering-workshop/) on [GW TAI](https://trustworthyai.gwu.edu) for researchers and developers.
