@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-My name is **Pingfan Hu**, a PhD candidate in [Systems Engineering](https://emse.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), advised by Professor [John Helveston](https://www.jhelvy.com). My work focuses on data science, quantitative modeling, and software development for human behavior and sustainable transportation. I develop open-source software for survey design and discrete choice modeling, and build full-stack research applications with R, Python, Quarto, Shiny, and PostgreSQL. I also apply agentic AI engineering to design and deploy LLM-powered workflows that automate complex research and development tasks.
+My name is **Pingfan Hu**, a PhD candidate in [Systems Engineering](https://emse.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), advised by Professor [John Helveston](https://www.jhelvy.com). My work focuses on data science, quantitative modeling, and software development for human behavior and transportation systems. I develop open-source software for survey design and discrete choice modeling, and build full-stack research applications with R, Python, Quarto, Shiny, and PostgreSQL. I also apply agentic AI engineering to design and deploy LLM-powered workflows that automate complex research and development tasks.
 
 ### Links
 
@@ -14,6 +14,6 @@ My name is **Pingfan Hu**, a PhD candidate in [Systems Engineering](https://ems
 
 ### Research Focus:
 
-1. **Data Science**: I study human behavior in sustainable transportation using discrete choice models and scenario simulation, focusing on smart charging [adoption](https://pingfan.org/researches/2024-sc-adoption/) and [economy](https://pingfan.org/researches/2025-smc-economy/) to generate policy suggestions for policymakers and utilities.
+1. **Data Science**: I study human behavior in transportation systems using discrete choice models and scenario simulation, focusing on smart charging [adoption](https://pingfan.org/researches/2024-sc-adoption/) and [economy](https://pingfan.org/researches/2025-smc-economy/) to generate policy suggestions for policymakers and utilities.
 2. **Open-Source Software**: I develop open-source R tools for survey research, including [surveydown](https://pingfan.org/researches/2024-surveydown/), a programmable, markdown-based survey platform built on Quarto, Shiny, and PostgreSQL, and its companion GUI [sdstudio](https://pingfan.org/researches/2025-sdstudio/).
 3. **Agentic AI Engineering**: I build reproducible workflows around Claude Code with plugins, skills, MCPs, and hooks. I document the [tutorials](https://pingfan.org/blog/2026-03-26-agentic-engineering-1/) and my own [workflows](https://pingfan.org/blog/2026-05-15-agentic-workflows/) in my blog, and run a [workshop](https://pingfan-hu.github.io/2026-agentic-workshop/) on [GW TAI](https://trustworthyai.gwu.edu) for researchers and developers.
