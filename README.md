@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-My name is **Pingfan Hu**, a PhD candidate in [Systems Engineering](https://emse.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), advised by Professor [John Helveston](https://www.jhelvy.com). My work focuses on data science, quantitative modeling, and software development for human behavior and transportation systems. I develop open-source software for survey design and discrete choice modeling, and build full-stack research applications with R, Python, Quarto, Shiny, and PostgreSQL. I also apply agentic AI engineering to design and deploy LLM-powered workflows that automate complex research and development tasks.
+My name is **Pingfan Hu**. I hold a Ph.D. in [Systems Engineering](https://emse.engineering.gwu.edu/) from [George Washington University](https://www.gwu.edu/), advised by Professor [John Helveston](https://www.jhelvy.com). I use discrete choice models and simulation to study how people respond to incentives in energy and transportation. I lead the development of [surveydown](https://surveydown.org), an open-source R platform for reproducible surveys, and build research applications with R, Python, Quarto, Shiny, and PostgreSQL. I am also Co-Founder and Principal Engineer of [Alkaline Software](https://github.com/alkaline-software), where I build desktop apps in Rust with agentic AI workflows.
 
 ### Links
 
